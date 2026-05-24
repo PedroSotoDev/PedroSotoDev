@@ -14,7 +14,7 @@
 </p>
 
 ### 🧰 My Skills
-<p align="center">
+<p align="left">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br><br>
