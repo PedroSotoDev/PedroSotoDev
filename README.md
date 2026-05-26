@@ -36,10 +36,10 @@
   <kbd>
     <kbd>Libraries & Framework</kbd>
     <br><br>
-    <img width="30px" src="django.png" />
-    <img width="30px" src="express.png" />
-    <img width="30px" src="fastapi.svg" />
-    <img width="30px" src="next.png" />
+    <img width="30px" src="./img/django.svg" />
+    <img width="30px" src="./img/express.png" />
+    <img width="30px" src="./img/fastapi.svg" />
+    <img width="30px" src="./img/next.png" />
   </kbd>
 
   <kbd>
