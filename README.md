@@ -40,6 +40,7 @@
     <img width="50px" src="./img/fastapi.svg" />
     <img width="50px" src="./img/airflow.svg" />
     <img width="50px" src="./img/express.png" />
+    <img width="50px" src="./img/prisma.png" />
   </kbd>
 
   <kbd>
