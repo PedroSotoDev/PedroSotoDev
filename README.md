@@ -18,45 +18,42 @@
   <kbd>
     <kbd>Programming Languages</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img width="30px" src="./img/javascript.png" />
-    <img width="30px" src="./img/typescript.png" />
-    <img width="30px" src="./img/base-de-datos.png" alt="SQL" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width="50px" src="./img/javascript.png" />
+    <img width="50px" src="./img/typescript.png" />
+    <img width="50px" src="./img/base-de-datos.png" alt="SQL" />
   </kbd>
 
   <kbd>
     <kbd>Data Bases & Caching</kbd>
     <br><br>
-    <img width="30px" src=".img/mysql.png" alt="mysql"/>
-    <img width="30px" src=".img/mariadb.svg" alt="mariadb"/>
-    <img width="30px" src=".img/postgre.png" alt="postgre"/>
-    <img width="30px" src=".img/redis.png" alt="redis"/>
+    <img width="50px" src="./img/mysql.png" alt="mysql"/>
+    <img width="50px" src="./img/mariadb.svg" alt="mariadb"/>
+    <img width="50px" src="./img/postgre.png" alt="postgre"/>
+    <img width="50px" src="./img/redis.png" alt="redis"/>
   </kbd>
 
   <kbd>
-    <kbd>Visualization</kbd>
+    <kbd>Libraries & Framework</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
-    <img width="30px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn logo" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" />
+    <img width="30px" src="django.png" />
+    <img width="30px" src="express.png" />
+    <img width="30px" src="fastapi.svg" />
+    <img width="30px" src="next.png" />
   </kbd>
 
   <kbd>
-    <kbd>MLOps & Cloud</kbd>
+    <kbd>Cloud</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-    <img width="30px" src="snowflake_logo.svg" alt="Snowflake" />
+    <img width="30px" src="./img/docker.png" />
+    <img width="30px" src="./img/AWS.png" />
   </kbd>
 
   <kbd>
     <kbd>Tools</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="./img/postman.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </kbd>
 </p>
