@@ -7,7 +7,7 @@
   align="right" 
 />
 
-<h1 align="left">Hi! I'm <code>&lt;/Alejandro&gt;</code></h1>
+<h1 align="left">Hi! I'm <code>&lt;/Pedro&gt;</code></h1>
 
 <p align="left">
   I'm <strong>Backend Engineer</strong> specializing in the design and development of high-performance backend systems.I possess experience in the modeling and optimization of SQL databases, as well as the strategic use of Redis in high-concurrency systems. I am passionate about transforming complex business requirements into elegant and maintainable technical solutions, while simultaneously championing modern software architectures and DevOps best practices.
