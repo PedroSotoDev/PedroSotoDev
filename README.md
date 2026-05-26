@@ -27,10 +27,10 @@
   <kbd>
     <kbd>Data Bases & Caching</kbd>
     <br><br>
-    <img width="30px" src=".img/mysql.png" />
-    <img width="30px" src=".img/mariadb.svg" />
-    <img width="30px" src=".img/postgre.png" />
-    <img width="30px" src=".img/redis.png" />
+    <img width="30px" src=".img/mysql.png" alt="mysql"/>
+    <img width="30px" src=".img/mariadb.svg" alt="mariadb"/>
+    <img width="30px" src=".img/postgre.png" alt="postgre"/>
+    <img width="30px" src=".img/redis.png" alt="redis"/>
   </kbd>
 
   <kbd>
