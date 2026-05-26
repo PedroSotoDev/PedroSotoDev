@@ -19,19 +19,18 @@
     <kbd>Programming Languages</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width="30px" src="./img/javascript.png" />
+    <img width="30px" src="./img/typescript.png" />
     <img width="30px" src="./img/base-de-datos.png" alt="SQL" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
 
   <kbd>
-    <kbd>Data Science & AI</kbd>
+    <kbd>Data Bases & Caching</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+    <img width="30px" src=".img/mysql.png" />
+    <img width="30px" src=".img/mariadb.svg" />
+    <img width="30px" src=".img/postgre.png" />
+    <img width="30px" src=".img/redis.png" />
   </kbd>
 
   <kbd>
