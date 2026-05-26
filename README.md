@@ -38,7 +38,7 @@
     <br><br>
     <img width="50px" src="./img/django.svg" />
     <img width="50px" src="./img/fastapi.svg" />
-    <img width="50px" src="./img/airflow.png" />
+    <img width="50px" src="./img/airflow.svg" />
     <img width="50px" src="./img/express.png" />
   </kbd>
 
